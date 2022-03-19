@@ -2,8 +2,8 @@
 // @name         Javlibrary sukebei shortcuts
 // @namespace    https://github.com/Runisco
 // @version      1.0
-// @updateURL https://github.com/Runisco/JavlibrarySukebeiShortcuts/raw/main/Javlibrarysukebeishortcuts.user.js
-// @downloadURL https://github.com/Runisco/JavlibrarySukebeiShortcuts/raw/main/Javlibrarysukebeishortcuts.user.js
+// @updateURL https://github.com/Runisco/JavlibrarySukebeiShortcuts/raw/main/JavlibrarySukebeiShortcuts.user.js
+// @downloadURL https://github.com/Runisco/JavlibrarySukebeiShortcuts/raw/main/JavlibrarySukebeiShortcuts.user.js
 // @supportURL https://github.com/Runisco/JavlibrarySukebeiShortcuts/issues
 // @description  Adds a shortcut to the toolbar of videos on Javlibrary to automatically search for the video on Sukebei
 // @author       Runisco
