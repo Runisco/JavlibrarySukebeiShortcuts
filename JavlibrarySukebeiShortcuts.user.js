@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Javlibrary sukebei shortcuts
 // @namespace    https://github.com/Runisco
-// @version      1
+// @version      1.0
 // @updateURL https://github.com/Runisco/JavlibrarySukebeiShortcuts/raw/main/Javlibrarysukebeishortcuts.user.js
 // @downloadURL https://github.com/Runisco/JavlibrarySukebeiShortcuts/raw/main/Javlibrarysukebeishortcuts.user.js
 // @supportURL https://github.com/Runisco/JavlibrarySukebeiShortcuts/issues
